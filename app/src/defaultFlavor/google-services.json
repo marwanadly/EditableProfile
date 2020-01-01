@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "87130029760",
+    "firebase_url": "https://editable-profile-ee60c.firebaseio.com",
+    "project_id": "editable-profile-ee60c",
+    "storage_bucket": "editable-profile-ee60c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87130029760:android:2350de7f6e1b7246a4b725",
+        "android_client_info": {
+          "package_name": "com.sparknetworks.editableprofile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87130029760-lh38ihah4556m292dvc6664krgmqvh46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sparknetworks.editableprofile",
+            "certificate_hash": "175748577d26ff4d1c82f01289407a5693281a94"
+          }
+        },
+        {
+          "client_id": "87130029760-b9v27rgrg67kmf0datla51suoea9mael.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdCLR7dX-sDx24Xu1xjZ4B3-1-BFh5noQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87130029760-b9v27rgrg67kmf0datla51suoea9mael.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

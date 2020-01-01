@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1093803667429",
+    "firebase_url": "https://editable-profile-test.firebaseio.com",
+    "project_id": "editable-profile-test",
+    "storage_bucket": "editable-profile-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093803667429:android:d2eb220745bb17a076890c",
+        "android_client_info": {
+          "package_name": "com.sparknetworks.editableprofile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093803667429-n6eoorasgv0rm35u4e97fojcuaq4p13m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnem73XdZ5OJ9ckcLDTJSpcYOQ99UsQdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093803667429-n6eoorasgv0rm35u4e97fojcuaq4p13m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

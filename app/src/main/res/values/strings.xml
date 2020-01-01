@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">EditableProfile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="back">back</string>
+    <string name="err_email">Please enter a valid email</string>
+    <string name="display_name">Display Name</string>
+    <string name="real_name">Real Name</string>
+    <string name="gender">Gender</string>
+    <string name="location">Location</string>
+    <string name="save">Save</string>
+    <string name="birthday">Birthday</string>
+    <string name="religion">Religion</string>
+    <string name="ethnicity">Ethnicity</string>
+    <string name="height">Height</string>
+    <string name="figure">Figure</string>
+    <string name="marital_status">Marital Status</string>
+    <string name="occupation">Occupation</string>
+    <string name="about">About</string>
+    <string name="edit_profile_picture">Edit profile picture</string>
+    <string name="edit">Edit</string>
+    <string name="internet_error">There is something wrong with your internet, Please check your internet connection and try again</string>
+    <string name="wrong_credentials">Invalid Email or Password</string>
+    <string name="unexpected_error">Something went wrong, Please try again later</string>
+    <string name="registration_failed">Failed to register, Please try again later</string>
+    <string name="required">Required</string>
+</resources>
